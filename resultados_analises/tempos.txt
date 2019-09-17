@@ -1,0 +1,47 @@
+NUMPY_RANDOM: 
+
+real	0m0.256s
+user	0m0.248s
+sys	0m0.008s
+
+--------------------------------------
+MERSENNE_TWISTER:
+
+real	0m0.251s
+user	0m0.250s
+sys	0m0.000s
+
+--------------------------------------
+OS_URANDOM:
+
+real	0m0.234s
+user	0m0.165s
+sys	0m0.060s
+
+--------------------------------------
+GETRANDBITS:
+
+real	0m0.090s
+user	0m0.090s
+sys	0m0.000s
+
+--------------------------------------
+NUMPY_INTEL:
+
+real	0m0.333s
+user	0m0.308s
+sys	0m0.025s
+
+--------------------------------------
+SYSTEMRANDOM:
+
+real	0m2.125s
+user	0m0.783s
+sys	0m1.342s
+--------------------------------------
+BLUM_BLUM_SHUB:
+
+real	7m12.451s
+user	7m12.388s
+sys	0m0.032s
+

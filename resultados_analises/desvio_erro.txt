@@ -1,0 +1,22 @@
+BLUM-BLUM-SHUB:
+Desvio padrão: 130.797; Erro Padrão: 29.247
+
+GETRANDBITS:
+Desvio padrão: 41.021; Erro Padrão: 9.173
+
+MERSENNE_TWISTER:
+Desvio padrão: 54.528; Erro Padrão: 12.193
+
+NUMPY_INTEL:
+Desvio padrão: 72.390; Erro Padrão: 16.187
+
+
+NUMPY_RANDINT:
+Desvio padrão: 70.263; Erro Padrão: 15.711
+
+
+OS_URANDOM:
+Desvio padrão: 379.969; Erro Padrão: 84.964
+
+SYSTEMRANDOM:
+Desvio padrão: 130.816; Erro Padrão: 29.251

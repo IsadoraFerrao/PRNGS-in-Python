@@ -1,0 +1,11 @@
+﻿Grupo: Si-Jv
+Isadora Ferrão - 151151387
+Sherlon Almeida - 151150179
+João Otávio - 
+Vinicius Nunes - 1701570481
+
+
+Neste trabalho foram avaliados 7 dos principais geradores aleatórios na linguagem de programação Python. A lista de geradores foi classificada conforme foram encontrados nos primeiros 40 sites dos mecanismos de busca Bing, DuckDuck Go e Google Search. A palavra de busca foi “prng examples in Python”. Os geradores avaliados incluem: random, numpy.random, os.urandom, getrandbits (também conhecido como sharandom), blum-blum-shub, numpy.random_intel e mersenne-twister. Vale enfatizar que o random inclui os geradores randint e systemrandom.
+O resultado da pesquisa resultou em 70 random (84,4%), 5 numpy.random (6,0%), 4 os.urandom (4,8%), 1 getrandbits (1,2%), 1 blum-blum-shub (1,2%), 1 numpy.random_intel (1,2%) e 1 mersenne-twister (1,2%).
+Para cada um dos geradores encontrados foi implementado uma versão em python gerando 100.000 números no intervalo de 0 a 10.000, tendo os parâmetros de execução fixos.
+Durante os testes de geração de números pseudo-aleatórios foi coletado o tempo de execução. Com estes dados, foi gerado um gráfico de barras no GNUPLOT, o qual representa o tempo de execução em segundos no eixo das ordenadas, e os PRNGs testados no eixo das abscissas. Além do mais, o gerador BLUM BLUM SHUB, por realizar outros testes de verificação da aleatoriedade, obteve um tempo superior aos demais, sendo cerca de 204 vezes mais lento que o seu antecessor (SYSTEM RANDOM).

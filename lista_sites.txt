@@ -1,0 +1,142 @@
+﻿Grupo: Sherlon, Isadora, João Otávio, Vinicius
+
+
+
+#Google search:
+
+https://docs.python.org/3/library/random.html;random
+https://docs.python.org/2/library/random.html;random
+https://pymotw.com/2/random/;random
+https://realpython.com/python-random/;random, numpy.random,os.urandom
+https://www.programiz.com/python-programming/examples/random-number;random
+https://github.com/james727/MTP/blob/master/mersenne_twister.py;mersenne_twister
+https://www.techbeamers.com/using-python-random/;randrange,randint
+https://developer.rhino3d.com/guides/rhinopython/python-random-number/;random.uniform
+http://blog.ptsecurity.com/2012/10/random-number-security-in-python.html;random,systemrandom
+https://pypi.org/project/randomstate/;randomstate
+https://pythonspot.com/random-numbers/;random.randint,random.uniform
+https://python-forum.io/Thread-Proposed-Tutorial-Introduction-to-Pseudo-Random-Numbers-and-Python;random.uniform,random.randrange
+https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.RandomState.html;numpy.random
+https://www.computerhope.com/jargon/p/pseudo-random.htm;random.random
+https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/;random.randint,numpy.random
+https://lwn.net/Articles/657269/;random
+https://jeremykun.com/2016/07/11/the-blum-blum-shub-pseudorandom-generator/;blum-blum-shub
+https://www.programcreek.com/python/example/367/random.seed;random
+http://effbot.org/pyfaq/how-do-i-generate-random-numbers-in-python.htm;random
+https://software.intel.com/en-us/blogs/2016/06/15/faster-random-number-generation-in-intel-distribution-for-python;numpy.random_intel
+http://pcg.wikidot.com/pcg-algorithm:linear-congruential-generator/;linear-congruential-generator;random, os.urandom, random.systemrandom
+
+Quantas vezes cada gerador aparece:
+random: 17
+numpy.random: 4
+os.urandom: 2
+blum-blum-shub: 1
+numpy.random_intel: 1
+mersenne-twister: 1
+-------------------------------------------------------------------------------
+# Bing Search:
+
+https://docs.python.org/3/library/random.html;random;
+https://realpython.com/python-random/;random
+https://pythonexample.com/snippet/prngpy_gustavo6046_python;random
+https://docs.python.org/3.1/library/random.html;random
+https://www.pythonforbeginners.com/requests/using-requests-in-python;random
+https://stackoverflow.com/questions/30193696/seeding-pythons-prng-with-a-tuple;random
+https://gist.github.com/pklaus/856268;random
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/;random
+https://www.programcreek.com/python/example/91934/numpy.random.RandomState;randomState
+https://www.laurentluce.com/posts/python-and-cryptography-with-pycrypto/;random
+https://superuser.com/questions/712551/how-are-pseudorandom-and-truly-random-numbers-different-and-why-does-it-matter/712583;random
+https://github.com/ContinuumIO/numbapro-examples/pull/9/commits/99660b7fdb236fc7efe42168de1db70326bb2a7b;random
+http://blog.ptsecurity.com/2012/10/random-number-security-in-python.html;urandom
+http://www.roguebasin.com/index.php?title=Random_number_generator;random
+ttps://www.techbeamers.com/using-python-random/;random.randrange
+https://www.digitalocean.com/community/tutorials/how-to-construct-while-loops-in-python-3;random
+http://pandas.pydata.org/pandas-docs/stable/10min.html;random.randn
+http://python.wikia.com/wiki/Random;random
+https://peteroupc.github.io/random.html;random
+https://bitbucket.org/cdmcfarland/fast_prng;random
+http://blog.adnansiddiqi.me/5-strategies-to-write-unblock-able-web-scrapers-in-python/;random.RandomState
+https://towardsdatascience.com/5-strategies-to-write-unblock-able-web-scrapers-in-python-5e40c147bdaf;random.RandomState
+https://pythonexample.com/snippet/test-a-prng_gerard_python;random
+http://www.4answered.com/questions/view/1ccb820/Seeding-Python39s-PRNG-with-a-tuple;random
+https://sites.google.com/site/mrliconti/ics3u-python/ics3u-python-programming-concepts--and-skills/ics3u-python-random-numbers;random
+https://groups.google.com/forum/#!topic/proceduralcontent/9fliwGzRbdM;random
+https://www.codeproject.com/Articles/1083372/Random-Number-Generator-Recommendations-for-Applic;random
+https://techutils.in/blog/2017/06/30/stackbounty-python-python-2-7-random-steganography-python-prng_steganography-lsb-method/;random
+https://crypto.stackexchange.com/questions/60405/why-are-prng-in-programming-languages-not-cryptographically-secure-by-default/60412;random
+https://eli.thegreenplace.net/2018/slow-and-fast-methods-for-generating-random-integers-in-python/;random
+https://www.reddit.com/r/Python/comments/40z8rk/best_way_of_generating_random_numbers_in_python/;urandom
+https://blog.softhints.com/python-random-number-examples/;random
+https://www.quora.com/In-Python-how-can-I-generate-a-random-number-with-specific-last-two-digits;random
+https://subversion.american.edu/aisaac/notes/iterators.pdf;random
+https://bugs.python.org/issue917055;getrandbits
+https://lists.gt.net/python/python/794503;random
+https://bidsarmanish.blogspot.com/2017/08/python-important-notes.html;random
+https://gist.github.com/sixtenbe/1178136;random
+
+
+Quantas vezes cada gerador aparece:
+random: 34
+numpy.random: 1
+os.urandom: 2
+getrandbits: 1
+-------------------------------------------------------------------------------
+
+# DuckDuckGo Search:
+https://pythonexample.com/snippet/prngpy_gustavo6046_python;random
+https://docs.python.org/3/library/random.html;random
+https://realpython.com/python-random/;random
+https://pythonhosted.org/inspyred/examples.html;random
+https://www.tutorialspoint.com/python/number_choice.htm;random
+https://wiki.python.org/moin/SimplePrograms;random
+http://on-demand.gputechconf.com/supercomputing/2013/presentation/SC3121-Programming-GPU-Python-Using-NumbaPro.pdf;random
+https://pypi.org/project/ecdsa/;urandom
+https://www.python.org/dev/peps/pep-0506/;urandom
+https://crypto.stackexchange.com/questions/60405/why-are-prng-in-programming-languages-not-cryptographically-secure-by-default;random
+https://multani.info/projects/pyopenssl/doc/latex-conversion/;random
+https://codereview.stackexchange.com/questions/58165/simple-random-number-generator;random
+http://www0.cs.ucl.ac.uk/staff/D.Jones/GoodPracticeRNG.pdf;random
+https://www.programcreek.com/python/example/547/string.ascii_letters;random
+http://www.effbot.org/pyfaq/how-do-i-generate-random-numbers-in-python.htm;random
+https://pandas.pydata.org/pandas-docs/stable/10min.html;random
+https://pypi.org/project/randomstate/;randomstate
+https://code.activestate.com/recipes/577487-chaotic-function-analysis-graph/;random
+https://jazzy.id.au/2010/09/20/cracking_random_number_generators_part_1.html;random
+http://pyopengl.sourceforge.net/pydoc/numpy.random.mtrand.html;urandom
+http://www.pybloggers.com/2018/07/python-histogram-plotting-numpy-matplotlib-pandas-seaborn/;random
+https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages;urandom
+http://scikit-learn.org/stable/auto_examples/covariance/plot_sparse_cov.html;random
+https://www.scipy-lectures.org/intro/numpy/array_object.html;random
+
+
+Quantas vezes cada gerador aparece:
+random = 19
+urandom = 4
+
+-------------------------------------------------------------------------------
+
+Média Geral de todos geradores: 11,85
+
+Média random: 84,33
+
+Média numpy.random: 6,02
+
+Média os.urandom: 4,81
+
+Média blum-blum-shub: 1,20
+
+Média numpy.random_intel: 1,20
+
+Média getrandbits: 1,20
+
+Média mersenne-twister: 1,20
+
+
+
+
+
+
+
+
+
